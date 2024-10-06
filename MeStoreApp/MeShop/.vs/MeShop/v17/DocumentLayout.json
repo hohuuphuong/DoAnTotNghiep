@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|e:\\meshop\\meshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|solutionrelative:meshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|e:\\meshop\\meshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|solutionrelative:meshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|e:\\meshop\\meshop\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08DC1F29-3C34-4E6E-A03C-B2759D641306}|MeShop\\MeShop.csproj|solutionrelative:meshop\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MeShop\\MeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MeShop\\MeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:08:40.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MeShop\\MeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\MeShop\\MeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MeShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T19:42:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\MeShop\\MeShop\\Views\\Blogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "MeShop\\Views\\Blogs\\Details.cshtml",
+              "ToolTip": "E:\\MeShop\\MeShop\\Views\\Blogs\\Details.cshtml",
+              "RelativeToolTip": "MeShop\\Views\\Blogs\\Details.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:17:42.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
